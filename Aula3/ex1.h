@@ -1,0 +1,1 @@
+void MyRand(int *value, int *ncalls)
