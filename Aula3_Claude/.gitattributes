@@ -1,0 +1,4 @@
+# Keep LF line endings in this folder on every system, so the sample texts in
+# ex4_word_analyzer/data have the same size everywhere (with CRLF, each '\r'
+# would also be counted as a character).
+* text=auto eol=lf

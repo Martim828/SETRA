@@ -1,0 +1,4 @@
+O “Word Analyzer” conta linhas, palavras e caracteres — e também a frequência
+de cada palavra. As palavras são guardadas em minúsculas, por isso “Ação”,
+“ação” e “AÇÃO” contam como a mesma palavra. Os acentos não partem as
+palavras: informação, coração e função são palavras inteiras.
