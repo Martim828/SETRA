@@ -1,0 +1,5 @@
+# Build outputs ('make clean' removes them)
+build/
+*.o
+*.d
+*.exe

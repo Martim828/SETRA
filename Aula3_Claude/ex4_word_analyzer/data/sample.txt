@@ -1,0 +1,10 @@
+Real-time embedded systems are everywhere: in cars, in planes, in medical
+devices and in the phone in your pocket. A real-time system must not only
+produce the right result, it must produce it at the right time. A late
+answer can be as bad as a wrong answer.
+
+The software of an embedded system is usually written in C, because C gives
+the programmer direct control over memory and hardware. With that control
+comes responsibility: the programmer must manage pointers, memory and the
+scope of every variable. Modular programming, makefiles and unit tests help
+the programmer keep the code correct, readable and easy to change.
