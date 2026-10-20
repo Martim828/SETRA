@@ -1,0 +1,3 @@
+A real-time system must react to events within a known time.
+Processes, signals and threads are the basic tools Linux gives us
+to split the work of a program and to coordinate its parts.

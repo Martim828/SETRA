@@ -1,0 +1,2 @@
+# Keep LF line endings in this folder on every system (the scripts run in Linux/WSL).
+* text=auto eol=lf

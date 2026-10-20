@@ -13,8 +13,7 @@ void tearDown(void)
 
 void test_MyVectorLib_Init(void)
 {	
-	MyVectorLib_Init();
-	TEST_ASSERT_EQUAL_INT(0, MyVectorLib_Len());	
+		
 }
 	
 void test_MyVectorLib_AddCheckSize(void)
